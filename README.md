@@ -1,0 +1,2 @@
+Prediction with Random Forest
+This project calculates Customer Lifetime Value (CLV) based on several customer behavior and demographic features, and uses a Random Forest Regressor to predict CLV for new customers.This CLV prediction model helps businesses assess the lifetime value of their customers, allowing for more effective marketing strategies, customer retention efforts, and resource allocation. By predicting CLV, businesses can focus on retaining high-value customers and making more informed decisions on marketing campaigns and investments
